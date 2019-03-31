@@ -1,2 +1,6 @@
 hi this is new file
+<<<<<<< HEAD
 added new character
+=======
+added string character here
+>>>>>>> 58d999f52a59ca2080f72b2ce66891d0cc19d0d2
